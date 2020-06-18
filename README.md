@@ -1,2 +1,2 @@
-# German-Edward-P.github.io
-my homeworks
+# German-Edward-P
+My homeworks
