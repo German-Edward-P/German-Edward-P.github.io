@@ -1,0 +1,44 @@
+* {
+     box-sizing: border-box;}
+body {
+    font-size: 20px;
+    font-weight: 500;
+    color: #727272;
+    background-image: url(/src/img/lesson_18/bg-accordion.jpg);
+}
+h1 {
+    margin-bottom: 55px;
+    color: #049ac8;
+    border-bottom: 40px;
+}
+span {
+    font-weight: 700;
+    
+}
+.accordion {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-left: -429px;
+    margin-top: -206px;
+    width: 858px;
+    height: 412px;
+    
+}
+.card-header {
+    height: 55px;
+    background-color: #049ac8;
+    color: #fff;
+   
+}
+.btn, .btn-block{
+    font-size: 21px;
+    color: #fff;
+    padding: 0 15px;
+    margin-bottom: 10px;
+    
+}
+ {
+    width: 839px;
+}
+
